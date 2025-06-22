@@ -30,8 +30,8 @@ import hcltechLogo from './assets/company_logo/hcltech-new-logo.svg';
 import sparksLogo from './assets/company_logo/sparks-logo.png';
 
 // Education Section Logo's
-import schoolLogo from './assets/education_logo/school-logo-new.png';
-import vtuLogo from './assets/education_logo/vtu_logo_new.png';
+import schoolLogo from './assets/education_logo/school_logo.png';
+import vtuLogo from './assets/education_logo/vtu_logo.png';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
